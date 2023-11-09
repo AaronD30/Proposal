@@ -1,0 +1,39 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Legend of Welda: Aaron's Adventure
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A game that is similar to the first Legend of Zelda.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+My project will be based on the first Legend of Zelda. There will be a couple of maps. There will be enemies you have to defeat to go to different rooms, keys you have to get to unlock doors, and a couple of boss fights. The goal is to get to the final boss and defeat the boss. The software will use Ren'Py and be in Python. When executed, you can play the game. 
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+No other classes.
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+No other partners.
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A good outcome will be a map where you have to find a key and get into the final room.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A better outcome would be a map where you have to find keys to unlock rooms with enemies and a boss fight.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The best outcome will have multiple maps with different puzzles, enemies, and boss fights.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I will need to learn how to even make a game in python to begin with. Then I will need to learn Ren'Py. I will also need to learn how to make games where rooms need a key to be unlocked and games where there are enemies. Because I am doing this project by myself, I will learn how to do it myself. After that, I will put it all together and begin crafting the game. First making the map and putting puzzels within the map. If I can do that, I will put enemies and a boss fight. If I can do that, I will make multiple maps. 
